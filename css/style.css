@@ -3,3 +3,17 @@
 	height:250px;
 	border:100px;
 }
+body{
+	background: #fff1c1;
+}
+header #banner{
+	background: #fff;
+	width: 1050px;
+	height: 100px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#banner{
+	background: #fe5f55; 
+	height: 350px;
+}
